@@ -1,9 +1,3 @@
-/**
- * script.js – Mangalam HDPE Pipes
- * Handles: sticky header, image carousel with zoom,
- * FAQ accordion, process tabs, hamburger menu
- */
-
 document.addEventListener('DOMContentLoaded', () => {
 
   /*
